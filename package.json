@@ -11,8 +11,8 @@
     "dev": "concurrently \"npm run server\" \"npm run client\""
   },
   "keywords": [],
-  
   "dependencies": {
+    "@mui/material": "^5.14.6",
     "bcryptjs": "^2.4.3",
     "colors": "^1.4.0",
     "concurrently": "^7.6.0",
