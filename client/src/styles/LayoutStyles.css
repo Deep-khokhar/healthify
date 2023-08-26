@@ -23,11 +23,10 @@
   min-height: 100%;
   width: 300px;
   border-radius: 5px;
-<<<<<<< HEAD
-  background-color: rgb(75, 207, 224);
-=======
+
+
   background-color: rgb(27, 68, 144);
->>>>>>> 0fc1deec8f4425347c4432163b36a68fbab157e4
+
   box-shadow: 0 0 2px gray;
   margin-right: 20px;
   color: white;
