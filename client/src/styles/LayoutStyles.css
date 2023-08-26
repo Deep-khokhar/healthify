@@ -81,3 +81,17 @@
   margin: 0 10px;
   text-transform: uppercase;
 }
+
+#logout{
+  margin-top: 250px;
+  text-align: center;
+ position: relative;
+  
+}
+.logout-bg{
+  text-align: center;
+  background-color: rgb(155, 29, 65);
+  margin: 25%;
+  border: 1px solid black;
+  border-radius: 8px;
+}

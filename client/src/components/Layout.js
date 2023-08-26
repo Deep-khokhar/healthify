@@ -64,9 +64,11 @@ const Layout = ({ children }) => {
                   </>
                 );
               })}
-              <div className={`menu-item `} onClick={handleLogout}>
+               <div className={`menu-item `} id="logout" onClick={handleLogout}>
+                <div className="logout-bg">
                 <i className="fa-solid fa-right-from-bracket"></i>
                 <Link to="/login">Logout</Link>
+                </div>
               </div>
             </div>
           </div>
